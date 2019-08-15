@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "rickymcgeehan-cv",
+    "production": "rickymcgeehan-cv"
+  }
+}
