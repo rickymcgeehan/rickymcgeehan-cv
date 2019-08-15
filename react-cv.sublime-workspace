@@ -4,16 +4,136 @@
 		"selected_items":
 		[
 			[
-				"handle",
-				"handleSubmit"
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"send",
+				"sendgrid"
+			],
+			[
+				"mail",
+				"mailOptions"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sendm",
+				"sendmessage"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"no",
+				"nodemailerSendGridAuth"
 			],
 			[
 				"margin-",
-				"margin-bottom\tproperty"
+				"margin-right\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
 			],
 			[
 				"margin",
-				"margin-right\tproperty"
+				"margin\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"flex",
+				"flex-start\tjustify-content"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"is",
+				"isTextArea"
+			],
+			[
+				"hand",
+				"handleChange"
+			],
+			[
+				"vali",
+				"validity"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"classNA",
+				"classNames"
+			],
+			[
+				"inp",
+				"input-row"
+			],
+			[
+				"err",
+				"errorField"
+			],
+			[
+				"clsa",
+				"className"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"er",
+				"errMsg"
+			],
+			[
+				"form",
+				"formatErrorTxt"
+			],
+			[
+				"inval",
+				"invalidField"
+			],
+			[
+				"fiel",
+				"fieldEl"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"handle",
+				"handleSubmit"
 			],
 			[
 				"box",
@@ -64,10 +184,6 @@
 				"pageIndex"
 			],
 			[
-				"pro",
-				"props"
-			],
-			[
 				"na",
 				"navId"
 			],
@@ -84,10 +200,6 @@
 				"max-width\tproperty"
 			],
 			[
-				"paddin",
-				"padding-right\tproperty"
-			],
-			[
 				"wid",
 				"width\tproperty"
 			],
@@ -96,20 +208,12 @@
 				"width\tproperty"
 			],
 			[
-				"class",
-				"className"
-			],
-			[
 				"pre",
 				"pre-wrap\twhite-space"
 			],
 			[
 				"font",
 				"font-style\tproperty"
-			],
-			[
-				"text",
-				"text-align\tproperty"
 			],
 			[
 				"font-",
@@ -128,16 +232,8 @@
 				"padding-top\tproperty"
 			],
 			[
-				"flex",
-				"flex-direction\tproperty"
-			],
-			[
 				"min-",
 				"min-height\tproperty"
-			],
-			[
-				"padd",
-				"padding-top\tproperty"
 			],
 			[
 				"col",
@@ -240,6 +336,42 @@
 	],
 	"file_history":
 	[
+		"/Users/ricky/projects/react-cv/src/App.js",
+		"/Users/ricky/projects/react-cv/src/components/about.js",
+		"/Users/ricky/projects/react-cv/src/components/footer.js",
+		"/Users/ricky/projects/react-cv/src/components/header.js",
+		"/Users/ricky/projects/react-cv/package.json",
+		"/Users/ricky/projects/react-cv/public/css/styles.css",
+		"/Users/ricky/projects/react-cv/public/index.html",
+		"/Users/ricky/projects/react-cv/.gitignore",
+		"/Users/ricky/projects/ionic-cv/.git/config",
+		"/Users/ricky/projects/ionic-cv/.git/COMMIT_EDITMSG",
+		"/Users/ricky/projects/ionic-cv/.git/description",
+		"/Users/ricky/projects/react-cv/client/src/components/header.js",
+		"/Users/ricky/projects/react-cv/client/public/css/media-queries.css",
+		"/Users/ricky/projects/react-cv/client/src/App.js",
+		"/Users/ricky/projects/react-cv/client/src/components/about.js",
+		"/Users/ricky/projects/react-cv/client/src/components/experience.js",
+		"/Users/ricky/projects/react-cv/client/public/css/styles.css",
+		"/Users/ricky/projects/react-cv/client/src/components/footer.js",
+		"/Users/ricky/projects/react-cv/client/src/components/contact.js",
+		"/Users/ricky/projects/react-cv/client/package.json",
+		"/Users/ricky/projects/react-cv/firebase.json",
+		"/Users/ricky/projects/react-cv/react-cv.sublime-project",
+		"/Users/ricky/projects/react-cv/functions/index.js",
+		"/Users/ricky/projects/react-cv/functions/package.json",
+		"/Users/ricky/projects/react-cv/.runtimeconfig.json",
+		"/Users/ricky/projects/react-cv/firebase-debug.log",
+		"/Users/ricky/projects/react-cv/server.js",
+		"/Users/ricky/projects/react-cv/client/README.md",
+		"/Users/ricky/projects/react-cv/client/public/index.html",
+		"/Users/ricky/projects/react-cv/.env",
+		"/Users/ricky/projects/react-cv/client/build/index.html",
+		"/Users/ricky/projects/react-cv/client/src/serviceWorker.js",
+		"/Users/ricky/projects/react-cv/client/.gitignore",
+		"/Users/ricky/Downloads/favicon_package_v0.16 (2)/site.webmanifest",
+		"/Users/ricky/projects/react-cv/client/public/site.webmanifest",
+		"/Users/ricky/projects/react-cv/client/public/manifest.json",
 		"/Users/ricky/projects/react-cv/public/css/font-awesome/css/font-awesome.css.map",
 		"/Users/ricky/projects/react-cv/public/css/fonts.css",
 		"/Users/ricky/projects/react-cv.sublime-project",
@@ -331,43 +463,7 @@
 		"/Users/ricky/projects/KatieGrantPhotography/src/pages/client-work/client-work.ts",
 		"/Users/ricky/projects/KatieGrantPhotography/src/components/image-gallery/image-gallery.ts",
 		"/Users/ricky/projects/KatieGrantPhotography/src/components/image-gallery-img/image-gallery-img.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/client-work/client-work.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/client-work/client-work.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/KatieGrantPhotography.sublime-project",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/image-gallery/image-gallery.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/portfolio-page/portfolio-page.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/portfolio-page/portfolio-page.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/animal-photography/animal-photography.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/nature-photography/nature-photography.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/urban-photography/urban-photography.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/image-slides/image-slides.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/image-slides/image-slides.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/image-slides/image-slides.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/app/app.component.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/app/app.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/nature-photography/nature-photography.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/urban-photography/urban-photography.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/image-slider-modal/image-slider-modal.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/image-slider-modal/image-slider-modal.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/image-slider-modal/image-slider-modal.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/animal-photography/animal-photography.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/show-on-load-img/show-on-load-img.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/show-on-load-img/show-on-load-img.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/providers/photo-service/photo-service.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/app/app.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/node_modules/ionic-angular/components/app/app.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/providers/global-service/global-service.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/urban-photography/urban-photography.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/portfolio-page/portfolio-page.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/nature-photography/nature-photography.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/image-gallery/portfolio-page/portfolio-page.html",
-		"/Users/ricky/projects/KatieGrantPhotography/src/pages/animal-photography/animal-photography.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/tsconfig.json",
-		"/Users/ricky/projects/KatieGrantPhotography/node_modules/@angular/material/grid-list/index.d.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/node_modules/@angular/material/grid-list/typings/grid-list-module.d.ts",
-		"/Users/ricky/projects/KatieGrantPhotography/src/assets/fonts/raleway/raleway.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/theme/variables.scss",
-		"/Users/ricky/projects/KatieGrantPhotography/src/components/image-gallery/image-gallery-spawner.ts"
+		"/Users/ricky/projects/KatieGrantPhotography/src/pages/client-work/client-work.html"
 	],
 	"find":
 	{
@@ -378,6 +474,7 @@
 		"height": 101.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -385,6 +482,97 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"didmount",
+			"social",
+			"<a href",
+			"cvDownload",
+			"client/",
+			"client",
+			"response",
+			"error",
+			"fireba",
+			"nodemailerSendGridAuth",
+			"nodemailer",
+			"cors",
+			"bodyparse",
+			"bodyParser",
+			"res.",
+			"req.",
+			"runtimeconfig",
+			"cvDownload",
+			"cache",
+			"no-cache",
+			"localhost:3000",
+			"console.log",
+			"email = ",
+			"reduceFormValues",
+			"state.name",
+			"message",
+			"index.js",
+			"invalidField",
+			"handleChange",
+			"header .social",
+			"skills",
+			".header",
+			"section .avatar",
+			"experience-content",
+			".experience-section .row",
+			"</span>",
+			"<span>",
+			"education",
+			"200px",
+			"header-col",
+			"main-col",
+			"-col",
+			"main-col",
+			"-col",
+			"header-col",
+			"main-",
+			"571",
+			"572",
+			"props",
+			"opaqueNavbar",
+			"paper",
+			"oncli",
+			"open",
+			"closeNav",
+			"openNav",
+			"handleChange",
+			"go-to",
+			"target",
+			"event.target",
+			"reduceFormValues",
+			".valid",
+			"label",
+			"input-ro",
+			"className",
+			"input-row",
+			"state.success",
+			"state.error",
+			"fieldId",
+			"mapFieldInputs",
+			"fieldId",
+			"errorField",
+			"submitClassNames",
+			"highlightError",
+			"fields[",
+			"typeMismatch",
+			"errMsg",
+			"ErrorValidationLabel",
+			"submit-row",
+			"color",
+			"key",
+			" onChange={onChange}",
+			"acc",
+			"currField",
+			"currVal",
+			"contactSubject",
+			"field",
+			"sending",
+			".submit-row.loading",
+			"margin-right",
+			"button.submit",
+			"express"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -409,11 +597,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -450,7 +638,7 @@
 	"project": "react-cv.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -460,16 +648,84 @@
 		"selected_items":
 		[
 			[
+				"index.",
+				"public/index.html"
+			],
+			[
+				"header",
+				"src/components/header.js"
+			],
+			[
 				"foot",
 				"src/components/footer.js"
 			],
 			[
-				"heade",
-				"src/components/header.js"
+				"style",
+				"public/css/styles.css"
 			],
 			[
 				"about",
 				"src/components/about.js"
+			],
+			[
+				"app",
+				"src/App.js"
+			],
+			[
+				"index",
+				"functions/index.js"
+			],
+			[
+				"inde",
+				"client/public/index.html"
+			],
+			[
+				"cont",
+				"client/src/components/contact.js"
+			],
+			[
+				"runtim",
+				".runtimeconfig.json"
+			],
+			[
+				"serve",
+				"server.js"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"app.",
+				"client/src/App.js"
+			],
+			[
+				"contac",
+				"client/src/components/contact.js"
+			],
+			[
+				"abou",
+				"client/src/components/about.js"
+			],
+			[
+				"exp",
+				"client/src/components/experience.js"
+			],
+			[
+				"heade",
+				"client/src/components/header.js"
+			],
+			[
+				"footer",
+				"client/src/components/footer.js"
+			],
+			[
+				".css",
+				"client/public/css/media-queries.css"
+			],
+			[
+				"styl",
+				"client/public/css/styles.css"
 			],
 			[
 				"font",
@@ -490,10 +746,6 @@
 			[
 				"client-",
 				"src/pages/client-work/client-work.ts"
-			],
-			[
-				"index",
-				"src/index.html"
 			],
 			[
 				"rale",
@@ -518,10 +770,6 @@
 			[
 				"fonts/din",
 				"src/assets/fonts/din-pro-light/din-pro-light.scss"
-			],
-			[
-				"server",
-				"server.js"
 			],
 			[
 				"home",
@@ -560,10 +808,6 @@
 				"src/app/app.html"
 			],
 			[
-				"app",
-				"src/app/app.module.ts"
-			],
-			[
 				"",
 				"src/pages/home/home.scss"
 			],
@@ -574,10 +818,6 @@
 			[
 				".scss",
 				"src/app/app.scss"
-			],
-			[
-				"inde",
-				"src/index.html"
 			],
 			[
 				"-page",
@@ -880,10 +1120,6 @@
 				"src/components/image-slides/image-slides.ts"
 			],
 			[
-				"app.",
-				"src/app/app.scss"
-			],
-			[
 				"urba",
 				"src/pages/urban-photography/urban-photography.ts"
 			],
@@ -922,54 +1158,6 @@
 			[
 				"global",
 				"src/providers/global-service/global-service.ts"
-			],
-			[
-				"glo",
-				"src/providers/global-service/global-service.ts"
-			],
-			[
-				"globalse",
-				"src/providers/global-service/global-service.ts"
-			],
-			[
-				"/global.ts",
-				"src/providers/global-service/global-service.ts"
-			],
-			[
-				"menu.",
-				"src/pages/menu/menu.ts"
-			],
-			[
-				"rootpage",
-				"src/components/root-page/root-page.html"
-			],
-			[
-				"root-pa",
-				"src/components/root-page/root-page.html"
-			],
-			[
-				"home.ts",
-				"src/pages/home/home.ts"
-			],
-			[
-				"appmodule",
-				"src/app/app.module.ts"
-			],
-			[
-				"client-wo",
-				"src/pages/client-work/client-work.ts"
-			],
-			[
-				"ionicthemede",
-				"node_modules/ionic-angular/themes/ionic.theme.default.scss"
-			],
-			[
-				"gallery",
-				"node_modules/angular2-image-gallery/lib/gallery/gallery.component.d.ts"
-			],
-			[
-				"page/anim",
-				"src/pages/animal-photography/animal-photography.html"
 			]
 		],
 		"width": 0.0
