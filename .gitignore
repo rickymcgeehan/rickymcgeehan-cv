@@ -10,6 +10,8 @@
 
 #dev
 .runtimeconfig.json
+*.sublime-project
+*.sublime-workspace
 
 # production
 /build
