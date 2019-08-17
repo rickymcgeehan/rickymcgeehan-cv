@@ -56,7 +56,7 @@ class Experience extends Component {
                 <div className="experience-content work">
 
                     <div className="header">
-                        <h1>Work</h1>
+                        <h1>Employment</h1>
                     </div>
 
                     <div className="main">
