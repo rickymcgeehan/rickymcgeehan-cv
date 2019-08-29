@@ -2,7 +2,7 @@
 
 This project was created in order to present my CV in a less traditional manner and to showcase my web development skills. The website is a single-page application built using React, styled using SASS and hosted with a serverless architecture on Firebase.
 
-Please take the time to view production website [here](https://rickymcgeehan-cv.web.app).
+**Please take the time to view the production website [here](https://rickymcgeehan-cv.web.app).**
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
