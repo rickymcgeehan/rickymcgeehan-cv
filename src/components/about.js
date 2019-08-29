@@ -48,7 +48,7 @@ class About extends Component {
                                     <span>{email}</span>
                                 </p>
                             </div>
-                            <a onClick={openDownload} className="button download-button"><i className="icon fas fa-download"></i>Download CV</a>
+                            <button onClick={openDownload} className="button download-button"><i className="icon fas fa-download"></i>Download CV</button>
                         </div>
                     </div>
 

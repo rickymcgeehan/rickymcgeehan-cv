@@ -44,7 +44,7 @@ class Experience extends Component {
                     </div>
 
                     <div className="main">
-                        <div className="row item">
+                        <div className="item">
                             <div className="twelve columns">
                             {education}
                             </div>

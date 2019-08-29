@@ -38,7 +38,7 @@ class Header extends Component {
         if(this.props.data.socialInfo)
         {
             var networks = this.props.data.socialInfo.map((network) => {
-                return <li key={network.name}><a onClick={this.createLink(network.url)}><i className={network.className}></i></a></li>
+                return <li key={network.name}><button onClick={this.createLink(network.url)}><i className={network.className}></i></button></li>
             });
         }
 

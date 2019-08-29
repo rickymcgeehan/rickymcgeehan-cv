@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Waypoint } from 'react-waypoint';
-import './App.css';
+import './styles/app.scss';
+import './styles/media-queries.scss';
 import Header from './components/header';
 import About from './components/about';
 import Experience from './components/experience';
