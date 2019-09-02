@@ -53,6 +53,10 @@ html, body, #root, .app {
 	position: relative;
 }
 
+section {
+	overflow: hidden;
+}
+
 ul, li {
 	margin: 0px;
 	padding: 0px;
@@ -66,6 +70,10 @@ li {
 	font-size: 16px;
 	line-height: 30px;
 	font-family: 'opensans-bold', sans-serif;
+}
+
+button {
+	padding: 1px 7px 2px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -652,7 +660,7 @@ ul.nav-list {
 
 /* Footer */
 footer {
-	padding: 18px 30px;
+	padding-top: 18px;
 	color: #7A7A7A;
 	background-color: #303030;
 	position: relative;
@@ -692,7 +700,8 @@ footer {
 		flex-direction: row;
 		justify-content: space-between;
 		align-items: center;
-		margin-top: 18px;
+		padding: 18px 30px;
+		overflow: hidden;
 	}
 
 	.social-links {
