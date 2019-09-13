@@ -34,7 +34,7 @@ class About extends Component {
                     <div className="main">
                         <h2>About Me</h2>
 
-                        <p>{about}</p>
+                        <p className="about-description">{about}</p>
 
                         <div className="row">
                             <div className="contact-details">
