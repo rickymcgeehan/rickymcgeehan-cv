@@ -25,9 +25,9 @@ const Field = ({
 
     var inputEl;
     if (isTextArea)
-        inputEl = <textarea cols="50" rows="10" className="contact-input" defaultValue="" name={fieldName} id={fieldId} required={required} onChange={onChange}/>
+        inputEl = <textarea cols="50" rows="10" className="contact-input" defaultValue="" name={fieldId} id={fieldId} required={required} onChange={onChange}/>
     else
-        inputEl = <input className="contact-input" defaultValue="" type={type} name={fieldId} size={size} id={fieldId} required={required} onChange={onChange}/>
+        inputEl = <input className="contact-input" defaultValue="" type={type} size={size} name={fieldId} id={fieldId} required={required} onChange={onChange}/>
 
     return (
         <div className={className}>
@@ -301,9 +301,9 @@ class Contact extends Component {
                     <aside>
                         <h4>Address and Phone</h4>
                         <p className="address">
-                            {name}<br />
-                            {street} <br />
-                            {city}, {postcode}<br />
+                            <span>{name}</span><br />
+                            <span>{street}</span><br />
+                            <span>{city}, {postcode}</span><br />
                             <span>{phone}</span>
                         </p>
                     </aside>

@@ -22,15 +22,15 @@
         }
     ],
     "contactInfo": {
-    "phone": "+447771594076",
-    "email": "rickymcgeehan@hotmail.com",
-    "address": {
-    "street": "183 Blind Lane",
-    "city": "High Wycombe",
-    "county": "Buckinghamshire",
-    "postcode": "HP10 9LE"
-}
-},
+        "phone": "+447771594076",
+        "email": "rickymcgeehan@hotmail.com",
+        "address": {
+            "street": "183 Blind Lane",
+            "city": "High Wycombe",
+            "county": "Buckinghamshire",
+            "postcode": "HP10 9LE"
+        }
+    },
     "education": [
         {
             "institution": "John Hampden Grammar School",
